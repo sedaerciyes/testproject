@@ -1,11 +1,11 @@
 # iOS Change Log
-### Version 2.0
+## Version 2.0
 21.12.2016 
 * Adcolony SDK is updated.
 * Https support is added.
 
 # Android Change Log
-### Version 1.2.3
+## Version 1.2.3
 17.12.2016
 * Ad Network SDK updated
  * AdColony (**3.0.6**)
@@ -23,7 +23,7 @@
 
 [link]: https://github.com/admost/AMR/blob/master/Android_Integration/version_1.2.3/README.md
 
-### Version 1.2.2
+## Version 1.2.2
 * New Networks added
  * TeadsAds
  * Rubicon
