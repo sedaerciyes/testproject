@@ -24,6 +24,7 @@
 [link]: https://github.com/admost/AMR/blob/master/Android_Integration/version_1.2.3/README.md
 
 ## Version 1.2.2
+07.12.2016
 * New Networks added
  * TeadsAds
  * Rubicon
@@ -52,6 +53,7 @@
 [this]: https://github.com/admost/AMR/tree/master/Android_Integration/version_1.2.2#upgrading-from-120-and-prior
 
 ## Version 1.2.0
+04.10.2016
 * InLocoMedia v2.3.3 added.
 * Network SDK Updated
  * UnityAds (**v2.0.5**)
@@ -68,6 +70,7 @@
 * Applovin checking for initialize
 
 ## Version 1.1.9
+06.09.2016
 * New networks Appnext, DisplayIO,and HyperAds are added.
 
 * Networks updated.
@@ -78,8 +81,10 @@
  * Vungle (**v4.0.2**)
  
 ## Version 1.1.8
+19.08.2016
  
 ## Version 1.1.3
+20.07.2016
 * Tapjoy Interstitial video support is added.
 * `onRewarded(int value)` method added to video ad listener
 * Interstitial load response thread problem fixed  
@@ -88,10 +93,25 @@
  * Mopub sdk (**v4.7.0**)  
 
 ## Version 1.1.2
+15.07.2016
 * Revmod Interstitial, Rewarded Video and Banner ads added.
 * Millennial Interstitial added.  
 * Bugs fixed. (Applovin, UnityAds)
 * SDKs Updated. 
  * Adcolony (**v2.3.6**)
 
+## Version 1.1.1
+13.07.2016
+* UnityAds Interstitial and Rewarded Video added  
+* FlyMob native and interstitial added  
+* Facebook rewarded added  
+* Inmobi banner bug fix  
+* Universal Image Loader replaced with Volley Image Loader  
+* Admost interstitial close button enlarged  
+* Native ads performance fixes  
 
+* Amazon sdk updated (**v5.7.2**)  
+* Mobfox core lib sdk updated (**v2.0.9**)  
+
+[Upgrade From 1.0.7] 
+[Upgrade From 1.0.7]: https://github.com/admost/AMR/blob/master/Android_Integration/version_1.1.1/Readme.md#upgrade-from-107
