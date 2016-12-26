@@ -47,3 +47,6 @@
 * Mopub Rewarded Video support added.
 * Tapjoy Offerwall support added.
 * Bugs fixed.
+* To Upgrade from 1.2.0 and Prior go to the [link].
+
+[link]:https://github.com/admost/AMR/tree/master/Android_Integration/version_1.2.2#upgrading-from-120-and-prior
