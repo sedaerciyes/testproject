@@ -113,5 +113,5 @@
 * Amazon sdk updated (**v5.7.2**)  
 * Mobfox core lib sdk updated (**v2.0.9**)  
 
-[Upgrade From 1.0.7] 
+* [To Upgrade From 1.0.7] 
 [Upgrade From 1.0.7]: https://github.com/admost/AMR/blob/master/Android_Integration/version_1.1.1/Readme.md#upgrade-from-107
