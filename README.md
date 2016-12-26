@@ -64,5 +64,34 @@
  * Tapjoy (**v11.8.1**)
  
 * MobFox SDK  moved to libs for uses-permission reasons + onNoFill method integrated.
-* onShown and onClicked methods added to AdMostAdListener for fullscreen ads
+* `onShown` and `onClicked` methods added to AdMostAdListener for fullscreen ads
 * Applovin checking for initialize
+
+## Version 1.1.9
+* New networks Appnext, DisplayIO,and HyperAds are added.
+
+* Networks updated.
+ * Supersonic (**v6.4.13**)
+ * Facebook Audience Network (**v4.11** / Beta **v1.0.5**)
+ * UnityAds (**v2.0.2**)
+ * Tapjoy (**v11.8.0**)
+ * Vungle (**v4.0.2**)
+ 
+## Version 1.1.8
+ 
+## Version 1.1.3
+* Tapjoy Interstitial video support is added.
+* `onRewarded(int value)` method added to video ad listener
+* Interstitial load response thread problem fixed  
+* Network SDK updated.
+ * Mobfox (**v2.1.0**)  
+ * Mopub sdk (**v4.7.0**)  
+
+## Version 1.1.2
+* Revmod Interstitial, Rewarded Video and Banner ads added.
+* Millennial Interstitial added.  
+* Bugs fixed. (Applovin, UnityAds)
+* SDKs Updated. 
+ * Adcolony (**v2.3.6**)
+
+
